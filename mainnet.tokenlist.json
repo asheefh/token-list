@@ -1,0 +1,47 @@
+{
+  "name": "ERC20 Tokens",
+  "timestamp": "2024-02-24T12:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 6,
+    "patch": 2
+  },
+  "logoURI": "https://raw.githubusercontent.com/OMAX-Development/token-list/master/omax.png",
+  "keywords": [
+    "blockchain",
+    "omax"
+  ],
+  "tokens": [
+    {
+      "chainId": 311,
+      "address": "0x373e4b4E4D328927bc398A9B50e0082C6f91B7bb",
+      "name": "Wrapped OMAX",
+      "symbol": "WOMAX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/OMAX-Development/token-list/master/assets/0x373e4b4E4D328927bc398A9B50e0082C6f91B7bb/logo.png",
+      "tags": ["wrapped", "native"]
+    },
+    {
+      "chainId": 311,
+      "address": "0x277e926A0E81b9e258dAb620dc62dc84d15A936D",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 18,
+      "tags": ["stable"]
+    },
+    {
+      "chainId": 311,
+      "address": "0x902FA6386a5eda84A3d3C87a209283a77D3Bde5A",
+      "name": "Tara Token",
+      "symbol": "TARA",
+      "decimals": 18
+    },
+    {
+      "chainId": 311,
+      "address": "0x3B28e982662367cc348efd22b345d8a7e42bA46b",
+      "name": "Phoenix",
+      "symbol": "PHNX",
+      "decimals": 18
+    }
+  ]
+}

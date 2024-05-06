@@ -1,0 +1,17 @@
+{
+  "name": "Blocked addresses on OMAX Network",
+  "timestamp": "2024-01-20T12:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://raw.githubusercontent.com/OMAX-Development/token-list/master/blocked.png",
+  "keywords": [
+    "blockchain",
+    "omax",
+    "blocked"
+  ],
+  "blocked": [],
+  "warning": []
+}
