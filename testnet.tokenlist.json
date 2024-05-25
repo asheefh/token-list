@@ -8,15 +8,15 @@
   },
   "keywords": [
     "blockchain",
-    "omax"
+    "shm"
   ],
   "logoURI": "https://raw.githubusercontent.com/OMAX-Development/token-list/master/omax.png",
   "tokens": [
     {
       "chainId": 332,
-      "address": "0x373e4b4E4D328927bc398A9B50e0082C6f91B7bb",
-      "name": "Wrapped OMAX",
-      "symbol": "WOMAX",
+      "address": "0xf560fae7ee92868fe9af5a6a0e76862432558987",
+      "name": "Wrapped SHM",
+      "symbol": "WSHM",
       "decimals": 18
     },
     {
